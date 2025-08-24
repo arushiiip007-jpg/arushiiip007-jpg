@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning *Figma, HTML, CSS, JavaScript*  
 - 💬 Ask me about *Graphics, Figma, HTML,Css*  
 - 📫 How to reach me: *arushiiip007@gmail.com*
-- ✨fuc fact I think I am Funny
+- ✨fun fact I think I am Funny
 - Connect with me:
 - 
 <p align="left">
