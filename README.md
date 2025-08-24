@@ -5,8 +5,13 @@
 
 - 🌱 I’m currently learning *Figma, HTML, CSS, JavaScript*  
 - 💬 Ask me about *Graphics, Figma, HTML,Css*  
-- 📫 How to reach me: *arushiiip007@gmail.com*  
-
+- 📫 How to reach me: *arushiiip007@gmail.com*
+- ✨fuc fact I think I am Funny
+- Connect with me:
+- 
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</p>
 ---
 
 ### 🛠 Languages and Tools:
